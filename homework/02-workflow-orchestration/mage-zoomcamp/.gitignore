@@ -1,12 +1,3 @@
-.ipynb_checkpoints/
-ny_taxi_postgres_data/
-*.csv
-*.json
-*test.py
-venv*
-.DS_Store*
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
